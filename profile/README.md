@@ -20,7 +20,8 @@
 ![MacOS](https://img.shields.io/badge/win-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![iOS](https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white)
-![WebShtorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=blue)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=blue)
+![TablePlus](https://img.shields.io/badge/TablePlus-000000?style=for-the-badge&logo=DataGrip&logoColor=blue)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=blue)
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=blue)
 
