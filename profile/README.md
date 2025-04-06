@@ -11,13 +11,6 @@ Quaruty simplifies email marketing with:
 - Advanced segmentation  
 - Real-time analytics & A/B testing
 
-## 🔧 Technologies We Use
-- React / Next.js  
-- Node.js / TypeScript  
-- Tailwind CSS  
-- Postgres / Redis  
-- AWS / Docker
-
 ## 💡 Why Quaruty?
 We focus on **clarity, speed, and results**. Whether you’re a startup or a growing business, Quaruty helps you scale your outreach with ease.
 
